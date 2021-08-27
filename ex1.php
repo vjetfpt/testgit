@@ -18,4 +18,5 @@ function isAsc($a){
 $a= explode(' ',"1 2 3 4 6",5);
 $result = isAsc($a);
 echo $result;
+echo "Đã thay đổi ở ex1";
 ?>
